@@ -6,7 +6,7 @@ using System.IO;
 {
     public void LearnFileHandling()
     {
-        string filepath= @"F:\MBM class\Net centric and computing\dotnet\Dipesh.Khanal\README.md";
+        // string filepath= @"F:\MBM class\Net centric and computing\dotnet\Dipesh.Khanal\README.md";
         String fileWithInProject = "Generics.cs";
         bool isFileThere = File.Exists(fileWithInProject);
 
